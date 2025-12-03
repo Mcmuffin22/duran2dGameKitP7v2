@@ -38,4 +38,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MUFFIN2.unity
     guid: 07c67a91a3d9ff84aac055b4b1055df6
+  - enabled: 1
+    path: Assets/NewScene.unity
+    guid: b6ce1b1b205411045bb1b06675d652b8
+  - enabled: 1
+    path: Assets/NewScene.unity
+    guid: b43736cc3c49f1041965cc7c8dc58fb0
+  - enabled: 1
+    path: Assets/NewScene.unity
+    guid: aa158372660e0c549af5749ec79c97b3
   m_configObjects: {}
